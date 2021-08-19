@@ -137,6 +137,10 @@ section ul
     {
         width: 50%;
     }
+    section li a 
+    {
+        display:none;
+    }
 }
 
 footer
